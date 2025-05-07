@@ -1,5 +1,5 @@
 # DB-projects
-Database 수업(HYU-ITE2038, Prof, Sangwook Kim) 과제 모음
+Database 수업(HYU-ITE2038, Prof. Sangwook Kim) 과제 모음
 
 ## 프로젝트 구성
 - 'B-tree/' : B-tree 삽입, 삭제 구현
